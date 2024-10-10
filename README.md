@@ -27,7 +27,7 @@ _______
 <a href="https://www.linkedin.com/in/kaique-loureiro-7472b5205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+<br>
 <a href="mailto:kaiquebr.28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
